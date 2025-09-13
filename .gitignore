@@ -1,0 +1,10 @@
+# Ambientes Virtuais
+.venv/
+venv/
+__pycache__/
+
+# Arquivos de Dependências
+*.pyc
+
+# Arquivos de Configuração Local
+.env
